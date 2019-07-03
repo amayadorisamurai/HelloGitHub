@@ -75,4 +75,4 @@ bool function(int a, int &b) {
 }
 
 struct PointData {
-};
+}; //ät‰ªTŒá 20010303
